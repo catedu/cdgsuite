@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/cdgsuite.git/unidad_1_optimizar_el_correo_electronico.md" %} 
+{% include "git+https://github.com/catedu/cdteams.git/unidad_1_optimizar_el_correo_electronico.md" %} 
