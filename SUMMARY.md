@@ -18,7 +18,7 @@
 
 
 ## Módulo 4: Documentos compartidos en Google Drive
-
+<!--
 * [Seguridad y privacidad de la cuenta GSuite](seguridad.md)
 * [Nuestro Drive](READMEdr.md)
     * [Primeros pasos](primeros-pasos.md)
@@ -44,7 +44,7 @@
     * [My Maps](google-my-maps.md)
     * [Dibujos y más](dibujos-y-mas.md)
     
-
+-->
 
 ---
 
