@@ -4,7 +4,7 @@
 
 [Tutorial Jamboard](https://www.google.com/url?q=https://www.youtube.com/playlist?list%3DPLnVD0pPf7Gn9WgPQzy0F4_63l7_Jj9pnM&sa=D&ust=1585136093912000)
 
-*   Una aplicación muy sencilla es PointToFix, permite superponer anotaciones y gráficos en cualquier momento y sobre cualquier aplicación, permite realizar zoom sobre la pantalla y resaltar zonas específicas de la misma. Es un buen complemento a tus exposiciones en videollamadas.
+*   Una aplicación muy sencilla es **PointToFix**, permite superponer anotaciones y gráficos en cualquier momento y sobre cualquier aplicación, permite realizar zoom sobre la pantalla y resaltar zonas específicas de la misma. Es un buen complemento a tus exposiciones en videollamadas.
 
 Por ejemplo, si queremos mostrar una presentación, imagen o documento durante la videoconferencia y superponer anotaciones sobre él durante la exposición, los pasos serían los siguientes:
 
@@ -18,4 +18,4 @@ Podemos descargarla de la siguiente página [http://www.pointofix.de/download.ph
 
 ![](images/m4image26.png)
 
-*   Por último, si no tienes cámara web o deseas tener una cámara web que puedas colocar en diferentes posiciones, hay aplicaciones que permiten utilizar la cámara de tu móvil como una webcam,  tienes más información en este  artículo [https://www.xatakandroid.com/tutoriales/como-usar-camara-tu-movil-android-como-webcam-para-tu-pc](https://www.google.com/url?q=https://www.xatakandroid.com/tutoriales/como-usar-camara-tu-movil-android-como-webcam-para-tu-pc&sa=D&ust=1585136093914000)
+*   Por último, **si no tienes cámara web o deseas tener una cámara web que puedas colocar en diferentes posiciones, hay aplicaciones que permiten utilizar la cámara de tu móvil como una webcam**,  tienes más información en este  artículo [https://www.xatakandroid.com/tutoriales/como-usar-camara-tu-movil-android-como-webcam-para-tu-pc](https://www.google.com/url?q=https://www.xatakandroid.com/tutoriales/como-usar-camara-tu-movil-android-como-webcam-para-tu-pc&sa=D&ust=1585136093914000)

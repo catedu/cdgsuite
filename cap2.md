@@ -2,23 +2,24 @@
 
 Antes de empezar a subir vídeos es conveniente organizarlos bien por temáticas, aulas, niveles,... según la organización que prefieras para tus vídeos. Las listas de reproducción serán las que nos permitan realizar esta organización.
 
-La gestión de listas, videos,... se realiza a través de YouTube Studio.
+La gestión de listas, videos,... se realiza a través de **YouTube Studio**.
 
 ![](images/m4image54.png)
 
-Una vez dentro de YouTube Studio, accederás a la siguiente pantalla:
+Una vez dentro de **YouTube Studio**, accederás a la siguiente pantalla:
 
 ![](images/m4image20.gif)
 
 Crearemos una lista de reproducción donde guardaremos los videos de una temática concreta, en el ejemplo crearemos una lista para guardar los videos tanto propios como de otros que encontremos en la red, relativos a la asignatura de Lengua de BACHILLERATO.
 
-Escogeremos en la barra de la izquierda la opción Lista y crearemos una nueva lista. ![](images/m4image3.png)
+Escogeremos en la barra de la izquierda la opción Lista y crearemos una nueva lista. 
+![](images/m4image3.png)
 
 en la siguiente imagen puedes ver la diferencia entre  una lista pública, oculta y privada, se puede cambiar esta configuración siempre que se considera necesario.
 
 ![](images/m4image13.png)
 
-Una vez creada la lista puedes subir un vídeo, por ejemplo alguno de los que hayas realizado con Hangouts  Meet, sigue los tres pasos que aparecen en la imagen![](images/m4image48.png)
+Una vez **creada la lista puedes subir un vídeo**, por ejemplo alguno de los que hayas realizado con Hangouts  Meet, sigue los tres pasos que aparecen en la imagen![](images/m4image48.png)
 
 En el último paso, tienes opción de escoger que el video solo puedan verlo determinadas personas.
 

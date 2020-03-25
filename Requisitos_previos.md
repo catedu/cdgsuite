@@ -4,9 +4,7 @@ Con Hangouts Meet puedes realizar videollamadas con personas de tu dominio GSUIT
 
 Consulta en la tabla siguiente cual es el hardware y software compatible para utilizar Meet.
 
-| SO COMPATIBLES | NAVEGADORES | HARDWARE | DISPOSITIVOS |
-| --- | --- | --- | --- |
-| Apple macOS | Chrome.  |   | PC Sobremesa |
+![](images/m4tabla.png)
 
 Recuerda que debes tener habilitados la cámara y el micrófono de tu PC para poder realizar una videollamada. Si tienes cámara web y micrófono pero Meet no los reconoce, ve al administrador de dispositivos de tu PC .
 

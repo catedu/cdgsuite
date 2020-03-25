@@ -11,7 +11,7 @@ En la actual situación, Youtube ha lanzado una iniciativa ( de momento está so
 
 ![](images/m4image9.png)
 
-Busca en internet los canales educativos que mejor se adapten a tu modelo de enseñanza, área y nivel que impartes. Hay multitud de herramientas online para tratar audio y video on line y así quedarte con la parte del vídeo que más te interese.
+Busca en internet los canales educativos que mejor se **adapten a tu modelo de enseñanza, área y nivel que impartes**. Hay multitud de herramientas online para tratar audio y video on line y así quedarte con la parte del vídeo que más te interese.
 
 Por ejemplo en la web  [https://123apps.com/](https://www.google.com/url?q=https://123apps.com/&sa=D&ust=1585136093925000) hay un editor de video muy sencillo:
 
