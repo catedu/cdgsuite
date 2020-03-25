@@ -1,4 +1,4 @@
-{% include "git+https://github.com/catedu/catedu/curso-google-drive.git/colaborando-con-documentos-de-google.md" %} 
+{% include "git+https://github.com/catedu/curso-google-drive.git/colaborando-con-documentos-de-google.md" %} 
 
 
 

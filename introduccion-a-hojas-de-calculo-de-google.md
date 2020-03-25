@@ -1,4 +1,4 @@
-{% include "git+https://github.com/catedu/catedu/curso-google-drive.git/introduccion-a-hojas-de-calculo-de-google.md" %} 
+{% include "git+https://github.com/catedu/curso-google-drive.git/introduccion-a-hojas-de-calculo-de-google.md" %} 
 
 
 
