@@ -10,3 +10,8 @@ Recuerda que debes tener habilitados la cámara y el micrófono de tu PC para po
 
 ![](images/m4image47.png)
 
+## AVISO: Deshabilitar la funcionalidad de Meet Acceso por Teléfono.
+
+Conviene deshabilitar esta función para evitar sorpresas desagradables de facturación.
+
+Para ello, el administrador de GSuite puede consultar en [este manual de ieducando](https://docs.google.com/document/d/1GkJKX4BJ15huTNfpV2_RYj_tDE0U3BOAhtMpv57DhM8/edit#heading=h.tp0n9dktg56b) para saber cómo hacerlo.
