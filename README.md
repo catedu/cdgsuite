@@ -2,4 +2,3 @@
 
 Curso para el profesorado sobre comunicación usando las herramientas de Google.
 
----
