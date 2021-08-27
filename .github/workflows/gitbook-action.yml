@@ -17,7 +17,7 @@ jobs:
           source_dir: .
           gitbook_pdf: true
           gitbook_pdf_name: cdgsuite
-          gitbook_epub: true
-          gitbook_epub_name: cdgsuite
           gitbook_mobi: true
           gitbook_mobi_name: cdgsuite
+          # gitbook_epub: true
+          # gitbook_epub_name: cdgsuite
